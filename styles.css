@@ -1,0 +1,130 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: cursive;
+    color: #45b29a;;
+}
+h1{
+    margin-top: 0px;
+}
+.name{
+    position: absolute;
+    bottom: 300px;
+    left: 450px;
+    height: 150px;
+    width: 600px;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+}
+.top-container{
+    background-color: #e0ebe8;
+    position: relative;
+    padding-top: 450px;
+}
+.middle-container{
+    background-color: white;
+    position: relative;
+    padding-top: 900px;
+}
+.bottom-container{
+    background: #c5ded7;
+    position: relative;
+    padding-top: 150px;
+}
+.cloud1{
+    position: absolute;
+    right: 300px;
+    top: 140px;
+    height: 100px;
+}
+.cloud2{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+    height: 100px;
+}
+
+h1{
+    font-family: 'Monoton', cursive;
+    position: absolute;
+    bottom: 400px;
+    left:650px;
+}
+p{
+    position: absolute;
+    bottom: 400px;
+    top:350px;
+    left:700px;
+    font-family: 'Monoton', cursive;
+}
+.propic{
+    position: absolute;
+    top: 50px;
+    left: 650px;
+    height: 200px;
+    width: 200px;
+}
+.greeting{
+    position: absolute;
+    top: 300px;
+    left: 725px;
+    font-family: 'Sacramento', cursive;;
+}
+.motiv{
+    position: absolute;
+    top: 350px;
+    left: 560px;
+    font-family: 'Cinzel', serif;
+}
+hr{
+    position: absolute;
+    top: 500px;
+    left: 725px;
+    border-style: none;
+    border-top-style: dotted; 
+    border-color: grey;
+    border-width: 5px; 
+    width: 4%;
+}
+.quote{
+    position: absolute;
+    top: 675px;
+    left:600px;
+    font-family: 'Permanent Marker', cursive;
+
+}
+.header{
+    background-color: #e0ebe8;
+    position: absolute;
+    top: 50px;
+    left: 500px;
+    font-family: 'Monoton', cursive;
+    font-size: x-large;
+}.carrier-font{
+    position: absolute;
+    top: 375px;
+    bottom: 300px;
+    left: 575px;
+    height: 150px;
+    width: 350px;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 1rem;
+}
+.button{
+  position: absolute;
+  bottom: 60px;
+  left:500px;
+  background-color: #45b29a;
+  color: #1b7f69;
+  height: 50px;
+  bottom: 50px;
+  border: 0;
+  border-color: #45b29a;
+  font-weight: 400;
+  width: 500px;
+}
+.button:hover {
+    background-color: #256154; 
+    color: white;
+  }
+ 
